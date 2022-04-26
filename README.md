@@ -9,19 +9,18 @@
 
 ## Installation <a name="installation"></a>
 
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
+The code only uses Pandas, Numpy and Matplotlib and was tested on a Python version 3.8.8.
+There should be no necessary  other libraries to run the code here beyond these.
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
+This project was written as a part of the Udacity Data Scientist Nanodegree Programm. For this project the [German House Price Dataset](https://www.kaggle.com/datasets/scriptsultan/german-house-prices) from Kaggle is used .
+The author of this dataset scraped the data from Immoscout24, a german real estate marketplaze, similar to Zillow. The data is from July 2020.
+I am interested in answering the following focus questions with regard to the data:
 
-1. How other developers suggested breaking into the field (what education to pursue)?
-2. What factors about an individual contributed to salary?
-3. How bias played a role in the suggestions of developers for how to break into the field?
-4. What was the state of bootcamps for assisting individuals with breaking into developer roles?
-5. How were bootcamps assisting with increasing diversity in tech careers?
-
-The full set of files related to this course are owned by Udacity, so they are not publicly available here.  However, you can see pieces of the analysis here.  This README also serves as a template for students to follow in creating their own project README files.
+1. What is the most common sold real estate type in Germany.
+2. Which Bundesland has the highest prices.
+3. Which features pose a high impact on the real estate prices
 
 
 ## File Descriptions <a name="files"></a>
@@ -32,7 +31,7 @@ There is an additional `.py` file that runs the necessary code to obtain the fin
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the corresponding github page, available [here](https://discoluc.github.io/udacityhouseprices/).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
