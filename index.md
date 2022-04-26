@@ -12,7 +12,7 @@ The dataset consists of 10,500 entries from all 16 German Bundesländer. The aut
 
 Here you can see the different house types in ascending order. Even though Germany has a lot of castles, it is the least offered type of property. Who would have thought ;). The most commen type is the mid-terrace house, followed by a duplex and the single dwelling houses. So if you are looking for one of these types you will face a broad offering.
 
-![type_hist](/udacityhouseprices/docs/assets/type_hist.jpg)
+![type_hist](/udacityhouseprices/docs/assets/type_hist.png)
 
 
 ```markdown
