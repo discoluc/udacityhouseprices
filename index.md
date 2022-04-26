@@ -1,3 +1,4 @@
+![Houses](/udacityhouseprices/docs/assets/houses.jpg)
 ### Introduction
 
 You can use the [editor on GitHub](https://github.com/discoluc/udacityhouseprices/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
