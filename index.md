@@ -42,20 +42,5 @@ This result is not very surprising, Hamburg & and Berlin are city-states, meanin
 |               Saarland |   257,224 |    1,328 |
 |         Sachsen-Anhalt |   204,837 |    1,121 |
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+### Predicting houseprices by its features.
