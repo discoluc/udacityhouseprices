@@ -24,24 +24,24 @@ This result is not very surprising, Hamburg & and Berlin are city-states, meanin
 
 ### Table 1: mean prices in Euro and mean prices per square meter
 
-| State                  | Price in EUR     | Price in EUR /square meter lot |
-|------------------------|-----------|----------|
-|                 Berlin | 1,160,439 |    5,215 |
-|                Hamburg |   835,454 |    5,076 |
-|                 Bayern |   820,002 |    3,881 |
-|      Baden-Württemberg |   708,397 |    3,493 |
-|                 Hessen |   667,460 |    2,994 |
-|            Brandenburg |   564,342 |    2,886 |
-|    Nordrhein-Westfalen |   558,275 |    2,607 |
-|     Schleswig-Holstein |   541,217 |    3,692 |
-|                 Bremen |   429,788 |    2,855 |
-|        Rheinland-Pfalz |   411,067 |    2,984 |
-| Mecklenburg-Vorpommern |   410,558 |    1,993 |
-|          Niedersachsen |   376,872 |    2,039 |
-|                Sachsen |   323,617 |    1,476 |
-|              Thüringen |   263,255 |    1,275 |
-|               Saarland |   257,224 |    1,328 |
-|         Sachsen-Anhalt |   204,837 |    1,121 |
+| Federal State          | Price [in EUR] | Price/<sup>m</sup> [in EUR] |
+|------------------------|----------------|------------------|
+|                 Berlin |      1,160,439 |            5,215 |
+|                Hamburg |        835,454 |            5,076 |
+|                 Bayern |        820,002 |            3,881 |
+|      Baden-Württemberg |        708,397 |            3,493 |
+|                 Hessen |        667,460 |            2,994 |
+|            Brandenburg |        564,342 |            2,886 |
+|    Nordrhein-Westfalen |        558,275 |            2,607 |
+|     Schleswig-Holstein |        541,217 |            3,692 |
+|                 Bremen |        429,788 |            2,855 |
+|        Rheinland-Pfalz |        411,067 |            2,984 |
+| Mecklenburg-Vorpommern |        410,558 |            1,993 |
+|          Niedersachsen |        376,872 |            2,039 |
+|                Sachsen |        323,617 |            1,476 |
+|              Thüringen |        263,255 |            1,275 |
+|               Saarland |        257,224 |            1,328 |
+|         Sachsen-Anhalt |        204,837 |            1,121 |
 
 
 
