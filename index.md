@@ -24,7 +24,7 @@ This result is not very surprising, Hamburg & and Berlin are city-states, meanin
 
 ### Table 1: mean prices in Euro and mean prices per square meter
 
-| Federal State          | Price [in EUR] | Price/<sup>m</sup> [in EUR] |
+| Federal State          | Price [in EUR] | Price/m<sup>2</sup> [in EUR] |
 |------------------------|----------------|------------------|
 |                 Berlin |      1,160,439 |            5,215 |
 |                Hamburg |        835,454 |            5,076 |
