@@ -1,5 +1,5 @@
 ![Houses](/udacityhouseprices/docs/assets/houses.jpg)
-### Introduction
+## Introduction
 
 Eventuelly at some point in your life.  You will hassle with yourself if you want to buy a house or if you want to keep on leasing for the reast of your life. This is exactly the turning point where I am right now.
 
@@ -8,13 +8,13 @@ Thus I looked for a dataset regarding house prices. I came up with a good set of
 
 The dataset consists of 10,500 entries from all 16 German Bundesländer. The author collected 26 different features e.g. price, lot area, bedrooms, energy features and many more. The first thing I want to know is the most common house type in Germany.
 
-### What is the most common real estate property in Germany?
+## What is the most common real estate property in Germany?
 
 Here you can see the different house types in ascending order. Even though Germany has a lot of castles, it is the least offered type of property. Who would have thought ;). The most commen type is the mid-terrace house, followed by a duplex and the single dwelling houses. So if you are looking for one of these types you will face a broad offering.
 
 ![type_hist](/udacityhouseprices/docs/assets/type_hist.png)
 
-### Which of the 16 german federal states is the most expensive?
+## Which of the 16 german federal states is the most expensive?
 
 As you can see in the following table. The highest mean prices are achieved in Berlin & Hamburg,followed by the two economic centers Baxern & Baden-Würrtemberg.
 Even the price per square meter is the most expensive in Hamburg and Berlin. 
@@ -22,7 +22,7 @@ Even the price per square meter is the most expensive in Hamburg and Berlin.
 This result is not very surprising, Hamburg & and Berlin are city-states, meaning the federal state only consists on one city. The other federal states also have quite big rural regions, which leads to a lower mean price.
 
 
-|Table with mean prices in Euro and mean prices per square meter|||
+### Table 1: mean prices in Euro and mean prices per square meter
 | State                  | Price in EUR     | Price in EUR /square meter lot |
 |------------------------|-----------|----------|
 |                 Berlin | 1,160,439 |    5,215 |
@@ -44,4 +44,4 @@ This result is not very surprising, Hamburg & and Berlin are city-states, meanin
 
 
 
-### Predicting houseprices by its features.
+## Predicting houseprices by its features.
