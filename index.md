@@ -22,7 +22,7 @@ Even the price per square meter is the most expensive in Hamburg and Berlin.
 This result is not very surprising, Hamburg & and Berlin are city-states, meaning the federal state only consists on one city. The other federal states also have quite big rural regions, which leads to a lower mean price.
 
 
-|:Table with mean prices in Euro and mean prices per square meter:|||
+|Table with mean prices in Euro and mean prices per square meter|||
 | State                  | Price in EUR     | Price in EUR /square meter lot |
 |------------------------|-----------|----------|
 |                 Berlin | 1,160,439 |    5,215 |
