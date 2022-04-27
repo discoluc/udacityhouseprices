@@ -45,8 +45,8 @@ This result is not very surprising, Hamburg & and Berlin are city-states, meanin
 *Table 1: mean prices in Euro and mean prices per square meter*
 
 
-# Predicting houseprices by its features.
-
+# Can we predict the houseprices by its features?
+Probably the most interesting question is if the propery prices can be predicted by its features. So we are looking for a machine learning model which optimally can predict house prices.
 
 ## Summary
 In this article, we took a deeper look at the German real estate market regarding to collected data from Immoscout24 in 2020.
