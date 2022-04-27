@@ -22,7 +22,6 @@ Even the price per square meter is the most expensive in Hamburg and Berlin.
 This result is not very surprising, Hamburg & and Berlin are city-states, meaning the federal state only consists on one city. The other federal states also have quite big rural regions, which leads to a lower mean price.
 
 
-### Table 1: mean prices in Euro and mean prices per square meter
 
 | Federal State          | Price [in EUR] | Price/m<sup>2</sup> [in EUR] |
 |------------------------|----------------|------------------|
@@ -43,6 +42,7 @@ This result is not very surprising, Hamburg & and Berlin are city-states, meanin
 |               Saarland |        257,224 |            1,328 |
 |         Sachsen-Anhalt |        204,837 |            1,121 |
 
+*Table 1: mean prices in Euro and mean prices per square meter*
 
 
 # Predicting houseprices by its features.
