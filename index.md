@@ -23,6 +23,7 @@ This result is not very surprising, Hamburg & and Berlin are city-states, meanin
 
 
 ### Table 1: mean prices in Euro and mean prices per square meter
+
 | State                  | Price in EUR     | Price in EUR /square meter lot |
 |------------------------|-----------|----------|
 |                 Berlin | 1,160,439 |    5,215 |
