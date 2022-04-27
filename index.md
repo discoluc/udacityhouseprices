@@ -44,15 +44,63 @@ This result is not very surprising, Hamburg & and Berlin are city-states, meanin
 
 *Table 1: mean prices in Euro and mean prices per square meter*
 
+# Which state has the biggest properties?
+
+So as the table suggests if you want to have a big ground and you want be a part-time groundskeeper you need to move to Mecklenburg-Vorpommern. On the lower end you can find our high price city states Hamburg, Berlin and Bremen. This is also not very surprising since ground is in quite a rare good in city limits.
+|                  State |   Lot [in m<sup>2</sup>] |
+|-----------------------:|------:|
+| Mecklenburg-Vorpommern | 3,855 |
+|     Schleswig-Holstein | 2,118 |
+|            Brandenburg | 1,977 |
+|                 Bayern | 1,692 |
+|                Sachsen | 1,653 |
+|          Niedersachsen | 1,529 |
+|    Nordrhein-Westfalen | 1,321 |
+|              Thüringen | 1,310 |
+|      Baden-Württemberg | 1,278 |
+|         Sachsen-Anhalt | 1,189 |
+|        Rheinland-Pfalz | 1,179 |
+|                 Hessen |   995 |
+|               Saarland |   849 |
+|                 Berlin |   808 |
+|                Hamburg |   502 |
+|                 Bremen |   481 |
+*Table 2: Lot size in m<sup>2</sup>.
+
+If you look at the living space there is a slightly different pictures. Appereanttly the people in Thüringen like to live in big houses, but if you want a big lot and a big house, you need to move to Mecklenburg-Vorpommern. Regarding the living space Hamburg and Bremen are again at the lower bookends. This is the downside of living in a city.
+
+|                  State | Living Space [in m<sup>2</sup>] |
+|-----------------------:|-------------:|
+|              Thüringen |          251 |
+| Mecklenburg-Vorpommern |          243 |
+|                Sachsen |          241 |
+|    Nordrhein-Westfalen |          229 |
+|                 Hessen |          226 |
+|      Baden-Württemberg |          224 |
+|                 Bayern |          222 |
+|                 Berlin |          221 |
+|        Rheinland-Pfalz |          213 |
+|          Niedersachsen |          197 |
+|               Saarland |          196 |
+|            Brandenburg |          196 |
+|         Sachsen-Anhalt |          191 |
+|     Schleswig-Holstein |          188 |
+|                Hamburg |          160 |
+|                 Bremen |          159 |
+*Table 2: Living space in m<sup>2</sup>.
 
 # Can we predict the houseprices by its features?
-Probably the most interesting question is if the propery prices can be predicted by its features. So we are looking for a machine learning model which optimally can predict house prices.
+Probably the most interesting question is if the propery prices can be predicted by its features. So we are looking for a machine learning model which optimally can predict house prices. So far my ML skills are not as good as I would like them to be and my model is performing quite bad with a `mean-squared-error = 469,840`. There is big room for improvement. I will come back to this in the future and furhter optimize it.
 
 ## Summary
 In this article, we took a deeper look at the German real estate market regarding to collected data from Immoscout24 in 2020.
 We saw that the most common type is the mid-terrace house. So if you are looking for one you are in luck. 
 
 Furthermore you are not so lucky if you are looking for a house in Berlin or Hamburg, since they are the most expensive federal states in Germany.
+
+However if you always wanted to live on a Ranch you need to look for houses in Mecklenburg-Vorpommern, the Houses there have the biggest lots and belong to the rather bigger ones in Germany and everything to a fairly moderate price compared to e.g. Berlin or Hamburg.
+
+Predicting prices needs to be more optimized in order to make fairly good ones. I will try to work on my ML skills to further improve my existing (yet very cheap) model.
 
 So now that you are a lot smarter than before. There is only one question which remains:
 
