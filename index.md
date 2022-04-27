@@ -49,7 +49,7 @@ This result is not very surprising, Hamburg & and Berlin are city-states, meanin
 So as the table suggests if you want to have a big ground and you want be a part-time groundskeeper you need to move to Mecklenburg-Vorpommern. On the lower end you can find our high price city states Hamburg, Berlin and Bremen. This is also not very surprising since ground is in quite a rare good in city limits.
 
 |                  State |   Lot [in m<sup>2</sup>] |
-|-----------------------:|------:|
+|-----------------------|------|
 | Mecklenburg-Vorpommern | 3,855 |
 |     Schleswig-Holstein | 2,118 |
 |            Brandenburg | 1,977 |
@@ -72,7 +72,7 @@ So as the table suggests if you want to have a big ground and you want be a part
 If you look at the living space there is a slightly different pictures. Appereanttly the people in Thüringen like to live in big houses, but if you want a big lot and a big house, you need to move to Mecklenburg-Vorpommern. Regarding the living space Hamburg and Bremen are again at the lower bookends. This is the downside of living in a city.
 
 |                  State | Living Space [in m<sup>2</sup>] |
-|-----------------------:|-------------:|
+|-----------------------|-------------|
 |              Thüringen |          251 |
 | Mecklenburg-Vorpommern |          243 |
 |                Sachsen |          241 |
@@ -93,7 +93,9 @@ If you look at the living space there is a slightly different pictures. Apperean
 *Table 3: Living space in m<sup>2</sup>.*
 
 # Can we predict the houseprices by its features?
-Probably the most interesting question is if the propery prices can be predicted by its features. So we are looking for a machine learning model which optimally can predict house prices. So far my ML skills are not as good as I would like them to be and my model is performing quite bad with a `mean-squared-error = 469,840`. There is big room for improvement. I will come back to this in the future and furhter optimize it.
+Probably the most interesting question is if the propery prices can be predicted by its features. So we are looking for a machine learning model which optimally can predict house prices. 
+
+So far my ML skills are not as good as I would like them to be and my model is performing quite bad with a `mean-squared-error = 469,840`. There is big room for improvement. I will come back to this in the future and furhter optimize it.
 
 ## Summary
 In this article, we took a deeper look at the German real estate market regarding to collected data from Immoscout24 in 2020.
