@@ -50,7 +50,9 @@ This result is not very surprising, Hamburg & and Berlin are city-states, meanin
 
 ## Summary
 In this article, we took a deeper look at the German real estate market regarding to collected data from Immoscout24 in 2020.
-We saw that the most common type is the mid-terrace house. So if you are looking for one you are in luck. Furthermore you are not so lucky if you are looking for a house in Berlin or Hamburg, since they are the most expensive federal states in Germany.
+We saw that the most common type is the mid-terrace house. So if you are looking for one you are in luck. 
+
+Furthermore you are not so lucky if you are looking for a house in Berlin or Hamburg, since they are the most expensive federal states in Germany.
 
 So now that you are a lot smarter than before. There is only one question which remains:
 
