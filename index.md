@@ -16,7 +16,10 @@ Here you can see the different house types in ascending order. Even though Germa
 
 ### Which of the 16 german federal states is the most expensive?
 
-| State                  | Price     | Price/qm |
+As you can see in the following table. The highest mean prices are achieved in Berlin & Hamburg,followed by the two economic centers Baxern & BadenW-Würrtemberg.
+Even the price per square meter is the most expensive in Hamburg and Berlin. This result is not very surprising, Hamburg & and Berlin are city-states, meaning the federal state only consists on one city. The other federal states also have quite big rural regions, which leads to a lower mean price.
+
+| State                  | Price in EUR     | Price in EUR /square meter lot |
 |------------------------|-----------|----------|
 |                 Berlin | 1,160,439 |    5,215 |
 |                Hamburg |   835,454 |    5,076 |
