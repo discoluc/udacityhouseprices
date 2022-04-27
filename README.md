@@ -9,8 +9,8 @@
 
 ## Installation <a name="installation"></a>
 
-The code only uses Pandas, Numpy and Matplotlib and was tested on a Python version 3.8.8.
-There should be no necessary  other libraries to run the code here beyond these.
+The code only uses Pandas, Numpy,Sklearn and Matplotlib and was tested on a Python version 3.9.11.
+There should be no necessary other libraries to run the code here beyond these.
 
 ## Project Motivation<a name="motivation"></a>
 
@@ -20,18 +20,18 @@ I am interested in answering the following focus questions with regard to the da
 
 1. What is the most common sold real estate type in Germany.
 2. Which Bundesland has the highest prices.
-3. Which features pose a high impact on the real estate prices
+3. Where in Germany are the biggest real estate properties.
+4. Can I predict the prices ( No I can't)
 
 
 ## File Descriptions <a name="files"></a>
 
 There is one notebook including markdown and code containing all the necessary executions to answer the above questions.
-
-There is an additional `.py` file that runs the necessary code to obtain the final model used to predict salary.
+There also is a csv containting all the needed data.
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the corresponding github page, available [here](https://discoluc.github.io/udacityhouseprices/).
+The main findings of the code can be found at the corresponding blog, available [here](https://discoluc.github.io/udacityhouseprices/).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
